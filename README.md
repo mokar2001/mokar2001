@@ -15,7 +15,7 @@
 </a>
 </p>
 
-🌱  I’m currently learning **Machine Learnings**
+🌱  I’m currently learning **Machine Learning**
 
 📝  I irregularly write articles on [Kaggle](https://kaggle.com/mokar2001)
 
