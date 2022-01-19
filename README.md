@@ -4,13 +4,13 @@
 <h3 align="center">I work with data and learn and learn and learn.</h3>
 
 <p align="center">
-<a href="https://dev.to/joetancy" target="blank"><img align="center"
+<a href="https://linkedin.com/in/mokar2001" target="blank"><img align="center"
             src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="joetancy" height="40" width="40" /> 
 </a> &nbsp;
-<a href="https://dev.to/joetancy" target="blank"><img align="center"
+<a href="https://instagram.com/mokar2001" target="blank"><img align="center"
             src="https://cdn.cdnlogo.com/logos/i/43/instagram-circle.svg" alt="joetancy" height="40" width="40" /> 
 </a> &nbsp;
-<a href="https://dev.to/joetancy" target="blank"><img align="center" 
+<a href="https://t.me/mokar2001" target="blank"><img align="center" 
             src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" alt="joetancy" height="40" width="40" />
 </a>
 </p>
