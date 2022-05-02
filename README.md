@@ -25,8 +25,6 @@
 > 🏆 59 Contributions in the Year 2020
  > 
 > 📦 Using many packages
- > 
-> 🚫 Not Opted to Hire
 
 
 **I'm Hard-Working** 
