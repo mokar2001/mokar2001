@@ -27,10 +27,6 @@
 > 📦 Using many packages
  > 
 > 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories
- > 
-> 🔑 1 Private Repository 
 
 
 **I'm Hard-Working** 
